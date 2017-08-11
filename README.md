@@ -4,6 +4,7 @@
 
 > 2017.08.07辛苦写了好几天的EasyLogging学习笔记因为Typora的Bug，清空了？！！！！  
 故。。。有了这个仓库  
+
 [英文原版地址](https://github.com/muflihun/easyloggingpp/blob/master/README.md)
 
 ## Catalogue
