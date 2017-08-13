@@ -5,6 +5,7 @@ Easylogging记录日志一共分9个等级：
 | Global | Trace | Debug | Fatal | Error | Warning | Info | Verbose | Unknown |
 | ------ | ----- | ----- | ----- | ----- | ------ | ----- |----- | ---- |
 | **概念级**  |      |        |       |       |        |       |     | **概念级** |
+
 **注：**  
 `概念级`只能用于设置，没有对应写日志的等级。
 默认所有日志等级平行关系。如果想要分等级记录日志则需要使用标志位`LoggingFlag::HierarchicalLogging`。
