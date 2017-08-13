@@ -2,7 +2,7 @@
 8.91之前版本使用性能跟踪需要定义许多宏，之后新版本做了很多优化。只需要下面三个宏就可进行性能跟踪：  
 - **TIMED_FUNC(obj-name)**
 - **TIMED_SCOPE(obj-name, block-name)**
-- **TIMED_BLOCK(obj-name, block-name)**
+- **TIMED_BLOCK(obj-name, block-name)**  
 **注：**  
 **obj-name**是起的一个变量名称，用于记录时间用  
 **block-name**是跟踪代码块运行时间的一个名称，会写入日志  
